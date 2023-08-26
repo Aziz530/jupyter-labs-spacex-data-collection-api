@@ -1,2 +1,2 @@
-# jupyter-labs-spacex-data-collection-api
-jupyter-labs-spacex-data-collection-api
+# Applied-Data-Science-Capstone
+Applied-Data-Science-Capstone
